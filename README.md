@@ -1,12 +1,41 @@
-# React + Vite
+# 🕹️ Tic Tac Toe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive Tic Tac Toe game built using **React.js**. Play against a friend in this classic two-player game with a clean and responsive design.
 
-Currently, two official plugins are available:
+🌐 [Live Demo](https://tic-tac-toe-rosy-beta.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<!-- Replace the link below with your actual screenshot -->
+![Tic Tac Toe Screenshot](https://via.placeholder.com/600x300.png?text=Tic+Tac+Toe+Game)
+
+---
+
+## 🚀 Features
+
+- 🎮 Two-player gameplay (Player X & Player O)
+- 🧠 Game logic with win/draw detection
+- 🔄 Restart option for a new game
+- 📱 Mobile-friendly responsive layout
+- ⚛️ React state management for game control
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **HTML5** & **CSS3**
+- **JavaScript (ES6+)**
+- **Vercel** (for deployment)
+
+---
+
+## 📦 Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/tic-tac-toe.git
+cd tic-tac-toe
